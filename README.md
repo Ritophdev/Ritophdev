@@ -1,3 +1,5 @@
+![banner de mi perfil](/photo/github.png)
+
 # 👋 Hola, soy Christopher
 
 🎯 También conocido como **Ritophdev**, soy un entusiasta de la programación que está comenzando su camino en el mundo del desarrollo de software.
